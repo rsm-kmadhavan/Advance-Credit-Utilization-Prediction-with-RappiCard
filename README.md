@@ -3,11 +3,15 @@
 
 
 Business Problem: How can RappiCard predict and manage credit line utilization to optimize capital allocation and increase revenue
+
 Objective: Develop robust occupation and risk assessment models to enhance financial stability and customer satisfaction.
+
 Approach: Develop Credit limit and Risk models and use them as inputs for the Occupation model to optimally predict customer utilization rates.
+
 Occupation Model: Predict customer’s credit utilization after credit limit increase
 Risk Assessment Model: Identify suitable customers for credit limit increases based on risk score
 Credit Limit Model: Predict account limit for each customer
+
 Impact: Influence credit strategies, risk management, and targeted marketing, directly enhancing satisfaction and stability.
 
 Machine Learning Techniques Used:
@@ -26,6 +30,7 @@ Extreme Gradient Boosting (XGB)
 
 
 
+Additional Revolving Interest after increasing credit limit to 11k customers and obtaining a $800k as additional revenue 
 
 
 
